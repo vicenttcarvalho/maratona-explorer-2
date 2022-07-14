@@ -35,6 +35,12 @@ body.dark-pink {
     --primary-color: #D6336C;
     --primary-color-dark: #A61E4D;
 }
+body.dark-pink-personalizado {
+    --bg-color: url('../image/dark-pink personalizado.jpg');
+    --text-color: #FFFFFF;
+    --primary-color: #D6336C;
+    --primary-color-dark: #A61E4D;
+}
 
 body {
     /*background: #EDF2FF;*/
